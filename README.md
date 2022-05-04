@@ -42,36 +42,6 @@ If Your browser does not support the video tag.
        <br />
        <img src="https://dl.dropbox.com/s/j6zng3yp20dp7a4/screenshot_20210528-140339.png?">
       <br>
-<br>
-<br>
-<br>
-<br>
-<a href="http://github.com/devfemibadmus/telehack">visit site</a>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<a href="http://m.facebook.com/devfemibadmustv">Follow PAGE FOR UPDATE</a>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<a href="http://m.facebook.com/devfemibadmus">Chat OWNER on FB</a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<a href="http://m.instagram.com/devfemibadmus">Chat OWNER on IG</a>
-</p>
         
 </body>
 </html>
